@@ -1,4 +1,4 @@
-# SecurePass 🔒 Password Manager
+# keychan 🔒 Password Manager
 
 ![UI Screenshot](assets)
 
