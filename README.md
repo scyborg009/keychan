@@ -1,6 +1,7 @@
 # SecurePass 🔒 Password Manager
 
-![SecurePass Screenshot](screenshot.png) *(add screenshot later)*
+![UI Screenshot](assets)
+
 
 A secure password manager with military-grade encryption and local storage.
 

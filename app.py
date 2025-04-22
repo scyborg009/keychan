@@ -9,7 +9,7 @@ import os
 class PasswordManager:
     def __init__(self, root):
         self.root = root
-        self.root.title("SecurePass 🔒")
+        self.root.title("keychan 🔒")
         self.root.geometry("600x450")
         
         # Initialize database FIRST
